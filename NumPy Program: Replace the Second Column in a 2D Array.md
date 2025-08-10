@@ -34,7 +34,7 @@ print(np.insert(c,1,b,axis=1))
 
 ```
 ## Output
-<img width="672" height="322" alt="24" src="https://github.com/user-attachments/assets/9bdcbed7-5be8-4a21-bf87-9b22f4542f1b" />
+<img width="690" height="203" alt="23" src="https://github.com/user-attachments/assets/6541b49d-10db-44bb-b0a1-ce70fc57afaa" />
 
 ## Result
 Thus the python program for replacing column in numpy has been implemented and executed successfully. 
