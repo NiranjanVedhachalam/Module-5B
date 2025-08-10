@@ -38,8 +38,7 @@ df = pd.DataFrame(exam_data , index=labels)
 print(df)
 ```
 ## Output
-<img width="672" height="322" alt="24" src="https://github.com/user-attachments/assets/e6413629-f90e-422c-947e-be8923566f8f" />
+<img width="672" height="322" alt="24" src="https://github.com/user-attachments/assets/31869e90-80fe-4d3e-900d-ed97d69b06a3" />
 
 ## Result
-Thus, the Python program has been created and executed successfully to create a DataFrame using 
-the given dictionary and index labels and displayed.
+Thus, the Python program has been created and executed successfully to create a DataFrame using the given dictionary and index labels and displayed.
